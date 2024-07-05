@@ -1,0 +1,17 @@
+.purple-bg{
+    background-color: purple;
+}
+
+#skills{
+    border: 2px solid black;
+    background-color: aquamarine;
+    text-align: center;
+    justify-content: center;
+    
+}
+#skills h3{
+    font-size: 18px;
+}
+#skills p{
+    font-size: 14px;
+}
